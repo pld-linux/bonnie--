@@ -32,7 +32,7 @@ vários aspectos de sistemas de arquivos Unix.
 %setup -q
 
 %build
-autoconf
+%{__autoconf}
 %configure
 %{__make}
 
