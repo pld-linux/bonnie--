@@ -8,6 +8,7 @@ Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://www.coker.com.au/bonnie++/%{name}-%{version}.tgz
+# Source0-md5:	00b1eee7f98b68fa762c4efb3b34caa1
 BuildRequires:	autoconf
 BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
