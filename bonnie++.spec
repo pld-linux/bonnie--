@@ -1,5 +1,5 @@
 Summary:	A program for benchmarking hard drives and filesystems
-Summary:	Program mierz±cy wydajno¶æ twardych dysków i systemów plików
+Summary(pl):	Program mierz±cy wydajno¶æ twardych dysków i systemów plików
 Name:		bonnie++
 Version:	1.00f
 Release:	1
