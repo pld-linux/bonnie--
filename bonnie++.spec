@@ -1,4 +1,5 @@
 Summary:	A program for benchmarking hard drives and filesystems
+Summary:	Program mierz±cy wydajno¶æ twardych dysków i systemów plików
 Name:		bonnie++
 Version:	1.00f
 Release:	1
@@ -12,6 +13,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Bonnie++ is a benchmark suite that is aimed at performing a number of
 simple tests of hard drive and file system performance.
+
+%description -l pl
+Bonnie++ jest zestawem benchmarków, których celem jest przeprowadzenie
+prostych testów wydajno¶ci twardego dysku i systemu plików.
 
 %prep
 %setup -q
