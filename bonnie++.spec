@@ -4,11 +4,12 @@ Summary(pl):	Program mierz±cy wydajno¶æ twardych dysków i systemów plików
 Summary(pt_BR):	Benchmark (teste de performance) Bonnie para Sistemas de Arquivos Unix
 Name:		bonnie++
 Version:	1.03a
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/System
 Source0:	http://www.coker.com.au/bonnie++/%{name}-%{version}.tgz
 # Source0-md5:	00b1eee7f98b68fa762c4efb3b34caa1
+URL:		http://www.coker.com.au/bonnie++/
 BuildRequires:	autoconf
 BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
