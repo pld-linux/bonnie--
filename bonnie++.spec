@@ -3,7 +3,7 @@ Summary(es):	Benchmark (prueba de desempeño) Bonnie para Sistemas de Archivos Un
 Summary(pl):	Program mierz±cy wydajno¶æ twardych dysków i systemów plików
 Summary(pt_BR):	Benchmark (teste de performance) Bonnie para Sistemas de Arquivos Unix
 Name:		bonnie++
-Version:	1.03
+Version:	1.03a
 Release:	1
 License:	GPL
 Group:		Applications/System
