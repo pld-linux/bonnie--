@@ -7,8 +7,6 @@ Version:	1.02
 Release:	1
 License:	GPL
 Group:		Applications/System
-Group(de):	Applikationen/System
-Group(pl):	Aplikacje/System
 Source0:	http://www.coker.com.au/bonnie++/%{name}-%{version}.tgz
 BuildRequires:	autoconf
 BuildRequires:	libstdc++-devel
