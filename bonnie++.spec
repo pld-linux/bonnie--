@@ -9,6 +9,7 @@ License:	GPL
 Group:		Applications/System
 Source0:	http://www.coker.com.au/bonnie++/%{name}-%{version}.tgz
 # Source0-md5:	00b1eee7f98b68fa762c4efb3b34caa1
+Patch0:		%{name}-flags.patch
 URL:		http://www.coker.com.au/bonnie++/
 BuildRequires:	autoconf
 BuildRequires:	libstdc++-devel
@@ -32,6 +33,7 @@ vários aspectos de sistemas de arquivos Unix.
 
 %prep
 %setup -q
+%patch0 -p1
 
 %build
 %{__autoconf}
