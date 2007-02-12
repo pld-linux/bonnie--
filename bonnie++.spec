@@ -1,7 +1,7 @@
 Summary:	A program for benchmarking hard drives and filesystems
-Summary(es):	Benchmark (prueba de desempeño) Bonnie para Sistemas de Archivos Unix
-Summary(pl):	Program mierz±cy wydajno¶æ twardych dysków i systemów plików
-Summary(pt_BR):	Benchmark (teste de performance) Bonnie para Sistemas de Arquivos Unix
+Summary(es.UTF-8):   Benchmark (prueba de desempeÃ±o) Bonnie para Sistemas de Archivos Unix
+Summary(pl.UTF-8):   Program mierzÄ…cy wydajnoÅ›Ä‡ twardych dyskÃ³w i systemÃ³w plikÃ³w
+Summary(pt_BR.UTF-8):   Benchmark (teste de performance) Bonnie para Sistemas de Arquivos Unix
 Name:		bonnie++
 Version:	1.03a
 Release:	2
@@ -19,17 +19,17 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Bonnie++ is a benchmark suite that is aimed at performing a number of
 simple tests of hard drive and file system performance.
 
-%description -l es
-Bonnie es un benchmark (prueba de desempeño) popular que verifica
+%description -l es.UTF-8
+Bonnie es un benchmark (prueba de desempeÃ±o) popular que verifica
 varios aspectos de sistemas de archivos Unix.
 
-%description -l pl
-Bonnie++ jest zestawem benchmarków, których celem jest przeprowadzenie
-prostych testów wydajno¶ci twardego dysku i systemu plików.
+%description -l pl.UTF-8
+Bonnie++ jest zestawem benchmarkÃ³w, ktÃ³rych celem jest przeprowadzenie
+prostych testÃ³w wydajnoÅ›ci twardego dysku i systemu plikÃ³w.
 
-%description -l pt_BR
-Bonnie é um benchmark (teste de performance) popular que verifica
-vários aspectos de sistemas de arquivos Unix.
+%description -l pt_BR.UTF-8
+Bonnie Ã© um benchmark (teste de performance) popular que verifica
+vÃ¡rios aspectos de sistemas de arquivos Unix.
 
 %prep
 %setup -q
