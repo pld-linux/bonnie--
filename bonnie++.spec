@@ -1,7 +1,7 @@
 Summary:	A program for benchmarking hard drives and filesystems
-Summary(es.UTF-8):   Benchmark (prueba de desempeño) Bonnie para Sistemas de Archivos Unix
-Summary(pl.UTF-8):   Program mierzący wydajność twardych dysków i systemów plików
-Summary(pt_BR.UTF-8):   Benchmark (teste de performance) Bonnie para Sistemas de Arquivos Unix
+Summary(es.UTF-8):	Benchmark (prueba de desempeño) Bonnie para Sistemas de Archivos Unix
+Summary(pl.UTF-8):	Program mierzący wydajność twardych dysków i systemów plików
+Summary(pt_BR.UTF-8):	Benchmark (teste de performance) Bonnie para Sistemas de Arquivos Unix
 Name:		bonnie++
 Version:	1.03a
 Release:	2
