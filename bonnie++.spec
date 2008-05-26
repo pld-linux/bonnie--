@@ -3,12 +3,12 @@ Summary(es.UTF-8):	Benchmark (prueba de desempeño) Bonnie para Sistemas de Arch
 Summary(pl.UTF-8):	Program mierzący wydajność twardych dysków i systemów plików
 Summary(pt_BR.UTF-8):	Benchmark (teste de performance) Bonnie para Sistemas de Arquivos Unix
 Name:		bonnie++
-Version:	1.03a
-Release:	2
+Version:	1.03c
+Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://www.coker.com.au/bonnie++/%{name}-%{version}.tgz
-# Source0-md5:	00b1eee7f98b68fa762c4efb3b34caa1
+# Source0-md5:	77a1ba78f37bdd7f024b67e1e36ad151
 Patch0:		%{name}-flags.patch
 URL:		http://www.coker.com.au/bonnie++/
 BuildRequires:	autoconf
