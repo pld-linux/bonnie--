@@ -4,7 +4,7 @@ Summary(pl.UTF-8):	Program mierzący wydajność twardych dysków i systemów pl
 Summary(pt_BR.UTF-8):	Benchmark (teste de performance) Bonnie para Sistemas de Arquivos Unix
 Name:		bonnie++
 Version:	1.96
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/System
 Source0:	http://www.coker.com.au/bonnie++/experimental/%{name}-%{version}.tgz
